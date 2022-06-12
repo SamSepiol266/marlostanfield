@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 <div id="badges">
-  <a href="www.linkedin.com/in/dana-bethel-890450a6">
+  <a href="[www.linkedin.com/in/dana-bethel-890450a6](https://www.linkedin.com/in/dana-bethel-890450a6/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
