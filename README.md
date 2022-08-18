@@ -33,7 +33,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Techie <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Bahamas.
+Tech Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Bahamas.
 
 - :telescope: I’m working as a Business Analysts and contributing to the backend for building web applications.
 
